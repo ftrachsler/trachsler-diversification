@@ -4,7 +4,7 @@
 
 Fabio Trachsler — ETH Zürich · `ftrachsler@student.ethz.ch`
 
-Working paper · May 2026 · SSRN: [link to be added]
+Working paper · May 2026 · : [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6805938)
 
 ---
 
